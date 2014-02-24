@@ -1,0 +1,33 @@
+Nation	Base
+Algeria	Sorocaba, SP
+Australia	Vitoria, ES
+Argentina	Vespasiano, MG
+Belgium	Mogi das Cruzes, SP
+Bosnia and Herzegovina	Guaruja, SP
+Brazil	Teresopolis, RJ
+Cameroon	Vitoria, ES
+Chile	Belo Horizonte, MG
+Colombia	Cotia, SP
+Costa Rica	Santos, SP
+Croatia	Mata de Sao Joao, BA
+Ecuador	Viamao, RS
+England	Rio de Janeiro, RJ
+France	Ribeirao Preto, SP
+Germany	Santa Cruz Cabralia, BA
+Ghana	Maceio, AL
+Greece	Aracaju, SE
+Honduras	Porto Feliz, SP
+Italy	Mangaratiba, RJ
+Iran	Guarulhos, SP
+Ivory Coast	Aguas de Lindoia, SP
+Japan	Itu, SP
+South Korea	Foz do Iguacu, PR
+Mexico	Santos, SP
+Netherlands	Rio de Janeiro, RJ
+Nigeria	Campinas, SP
+Portugal	Campinas, SP
+Russia	Itu, SP
+Spain	Curitiba, PR
+Switzerland	Porto Seguro, BA
+Uruguay	Sete Lagoas, MG
+United States	Sao Paulo, SP
